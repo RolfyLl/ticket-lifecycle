@@ -35,7 +35,7 @@ To begin with i created multiple tickets with different issues from different us
 
 - Printer Issues from Archilles Greek 
 - Low memory from Hector Troy
-- Employee Terminination from Archilles Greek 
+- Employee Termination from Archilles Greek 
 - Outlook Issues from Hector Troy
   
 </p>
@@ -46,6 +46,38 @@ To begin with i created multiple tickets with different issues from different us
 </p>
 <p>
 I started working on the Printing Issues ticket from Archilles. I started the conversation to gather more information on the issue and eventully lead me to fixing the isssue.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ylKTKbl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next i began working on Ticket # 987124 the employee termination from Archilles. I proceeded to disable the employees account and collected his hardware.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
