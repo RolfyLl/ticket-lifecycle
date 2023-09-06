@@ -66,10 +66,10 @@ In this next ticket i began working on the Low memory ticket #340147 from Hector
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/U4xuAVc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next i started working on the Outlook Issues ticket # 627349 from Hector Troy. I accessed Hector event viewer and noticed his internet connection was down. to fix the issue i disabled the VPN and update drivers and reconnected the VPN.
 </p>
 <br />
 
