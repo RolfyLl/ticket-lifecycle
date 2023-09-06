@@ -31,11 +31,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/3bakpcd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To begin with i created multiple tickets with different issues from different users.
+To begin with, I created multiple tickets with different issues from different users.
 
-- Printer Issues from Archilles Greek 
+- Printer Issues from Achilles Greek 
 - Low memory from Hector Troy
-- Employee Termination from Archilles Greek 
+- Employee Termination from Achilles Greek 
 - Outlook Issues from Hector Troy
   
 </p>
@@ -45,7 +45,7 @@ To begin with i created multiple tickets with different issues from different us
 <img src="https://i.imgur.com/ViAt6qs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I started working on the Printing Issues ticket from Archilles. I started the conversation to gather more information on the issue and eventully lead me to fixing the isssue.
+I started working on the Printing Issues ticket from Archilles. I started the conversation to gather more information on the issue and eventually led me to fix the issue.
 </p>
 <br />
 
@@ -53,15 +53,15 @@ I started working on the Printing Issues ticket from Archilles. I started the co
 <img src="https://i.imgur.com/ylKTKbl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next i began working on Ticket # 987124 the employee termination from Archilles. I proceeded to disable the employees account and collected his hardware.
+Next, I began working on Ticket # 987124 the employee termination from ArchilIes. I proceeded to disable the employee's account and collected his hardware.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/xYJJmNP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img srcemployee's/i.imgur.com/xYJJmNP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this next ticket i began working on the Low memory ticket #340147 from Hector Troy. To provide more Memory i deleted apps that werent used in a long time, cleaned up the reclying bin, and also performed a disk clean up.
+In this next ticket, I began working on the Low memory ticket #340147 from Hector Troy. To, provide more Memory I deleted apps that weren't used in a long time, cleaned up the reclyingIbin, and also performed disk clean up.
 </p>
 <br />
 
@@ -69,14 +69,14 @@ In this next ticket i began working on the Low memory ticket #340147 from Hector
 <img src="https://i.imgur.com/U4xuAVc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next i started working on the Outlook Issues ticket # 627349 from Hector Troy. I accessed Hector event viewer and noticed his internet connection was down. to fix the issue i disabled the VPN and update drivers and reconnected the VPN.
+Next, I started working on the Outlook Issues ticket # 627349 from Hector Troy. I accessed Hector's event viewer and noticed his internet connection was down. to fix the issue I disabled the VPN updated drivers and reconnected the VPN.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-I finished the lab completing all the work tickets using  "pretend convesations" jumping from the Admin and from the owners of the ticket. I was exposed to alot of new that i enjoyed working for this i performed this Lab multiple times 
+I finished the lab completing all the work tickets using  "pretend conversations" jumping from the Admin and the ticket owners. I was exposed to a lot of new technology and software that I previously wasn't aware of. I enjoyed working on this lab I performed this Lab multiple times to get more familiar with navigating thru the environment.  
 </p>
 <br />
